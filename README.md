@@ -10,3 +10,9 @@ Este ejercicio puede combinarse con los talleres de Estación Climatica que reci
 - https://github.com/codigo-iot/flow7-clima-api-docker-compose-mysql-grafana
 - https://github.com/codigo-iot/estacion-climatica-esp32cam-dht11-mqtt-multitema-mysql-grafana
 
+# Créditos
+
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
